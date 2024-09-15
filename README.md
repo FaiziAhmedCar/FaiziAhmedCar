@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FaiziAhmedCar
+- 👋 Hi, I’m @FaiziAhmed
 - 👀 I’m interested in Web devlopment
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on ...

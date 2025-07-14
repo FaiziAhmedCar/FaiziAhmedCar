@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FaiziAhmed
-- 👀 I’m interested in Web devlopment
-- 🌱 I’m currently learning React Js
+- 👀 I’m interested in Full Stack devlopment
+- 🌱 I’m currently learning MERN Stack and React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫  reach me on mail- faiziahmedcar@gmail.com
 - 😄 Pronouns: ...
